@@ -12,11 +12,11 @@ Contains the attributes:
 - **robotID**: *int*
 - **linearVelocity**: *float64*
 - **angularVelocity**: *float64*
-And the exported getters and setters to data handling.
+<p>And the exported getters and setters to data handling.</p>
 
 <a name="repository"></a>
 
 ## Repository Type
 Contains the attribute:
 - **Repository**: *map[string]Command*
-And the exported getter and setter to data handlig.
+<p>And the exported getter and setter to data handlig.</p>
