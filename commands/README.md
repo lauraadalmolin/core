@@ -9,7 +9,6 @@ This package provides the store of commands to send.
 
 ## Command Type
 Contains the attributes:
-- **robotID**: *int*
 - **linearVelocity**: *float64*
 - **angularVelocity**: *float64*
 <p>And the exported getters and setters to data handling.</p>
@@ -18,5 +17,5 @@ Contains the attributes:
 
 ## Repository Type
 Contains the attribute:
-- **Repository**: *map[string]Command*
+- **Repository**: *[3]Command*
 <p>And the exported getter and setter to data handlig.</p>
