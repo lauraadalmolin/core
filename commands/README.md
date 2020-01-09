@@ -14,7 +14,7 @@ Contains the attributes:
 - **angularVelocity**: *float64*
 And the exported getters and setters to data handling.
 
-<a name="repository></a>
+<a name="repository"></a>
 
 ## Repository Type
 Contains the attribute:
