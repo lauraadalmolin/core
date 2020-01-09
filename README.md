@@ -5,7 +5,7 @@ Furgbol Core is the project to develop usefuls packages for Furgbol's software.
 Upcoming.
 
 # Contribute
-See how to [contribute](http://github.com/furgbol/core/contrib.md) with this project.
+See how to [contribute](https://github.com/furgbol/core/blob/master/contrib.md) with this project.
 
 # License
-See the [license](http://github.com/furgbol/core/LICENSE.md) of this project.
+See the [license](https://github.com/furgbol/core/blob/master/LICENSE.md) of this project.
