@@ -11,3 +11,9 @@ Then, follow this steps:
 You have to specify the package that you are changing and you commit must detail the changing.
 Example:
 > "package: This is my changing"
+
+# Project Patterns and Thechniques
+In this project you must follow the same patterns and techniques that are addopted:
+- S.O.L.I.D. pattern
+- Singleton pattern
+- Dependency injection technique
