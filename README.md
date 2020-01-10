@@ -4,7 +4,7 @@ Furgbol Core is the project to develop usefuls packages for Furgbol's software.
 # Contents
 
 ## Commands Package
-[This package](https://github.com/furgbol/core/tree/master/commands) provides the store of commands to send.
+The [Commands Package](https://github.com/furgbol/core/tree/master/commands) provides the store of commands to send.
 
 # Contribute
 See how to [contribute](https://github.com/furgbol/core/blob/master/contrib.md) with this project.
