@@ -2,8 +2,8 @@ package commands
 
 // Command - command to send
 type Command struct {
-	linearVelocity  float64
-	angularVelocity float64
+	linearVelocity  float64 // robot's linear velocity
+	angularVelocity float64 // robot's angular velocity
 }
 
 // GetLinearVelocity returns the robot linear velocity
