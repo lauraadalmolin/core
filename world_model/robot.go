@@ -9,27 +9,27 @@ type Robot struct {
 	targetPosition Pose
 }
 
-func (robot Robot) GetID() float64 {
+func (robot Robot) GetID() int {
 	return robot.id
 }
 
-func (robot Robot) GetRole() float64 {
+func (robot Robot) GetRole() string {
 	return robot.role
 }
 
 func (robot Robot) GetActualPosition() Pose {
-	return robot.actualPosition.GetPose()
+	return robot.actualPosition.GetOrientation()
 }
 
 func (robot Robot) GetTargetPosition() Pose {
-	return robot.targetPosition.GetPose()
+	return robot.targetPosition.GetOrientation()
 }
 
 func (robot Robot) SetID(id int) {
 	robot.id = id
 }
 
-func (robot Robot) GetRole(role string) {
+func (robot Robot) SetRole(role string) {
 	position.role = role
 }
 
