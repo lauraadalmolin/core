@@ -1,6 +1,7 @@
 package world_model
 
 type Pose struct {
+	Position
 	orientation float64
 }
 
